@@ -1,0 +1,10 @@
+proteus == 4.2.0
+python-dateutil >= 2.8.0
+six != 0.50.0
+
+
+
+
+
+
+
