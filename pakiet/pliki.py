@@ -18,3 +18,5 @@ try:
             print(i)
 except IOError:
     print("Wystąpił problem z plikem, sprawdź nazwę pliku")
+
+input('Wciśnij ENTER aby zakończyć!')
