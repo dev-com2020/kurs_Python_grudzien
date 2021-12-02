@@ -1,7 +1,7 @@
 import json
 
 
-with open('katalog.json') as f:
+with open('imiona.json') as f:
     katalog_dict = json.load(f)
 
 print(json.dumps(katalog_dict, indent="\t", sort_keys=True))
